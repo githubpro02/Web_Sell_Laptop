@@ -1,7 +1,6 @@
 //bán chạy nhất
 $('.product-bestseller').slick({
-    // dots: true,
-    // infinite: true,
+
     speed: 1000,
     slidesToShow: 5,
     slidesToScroll: 3,
@@ -12,8 +11,7 @@ $('.product-bestseller').slick({
         settings: {
             slidesToShow: 3,
             slidesToScroll: 3,
-            // infinite: true,
-            dots: true
+
         }
     },
         {
